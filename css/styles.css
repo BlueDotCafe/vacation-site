@@ -1,0 +1,15 @@
+#picture img {
+  width: 98%;
+  border-radius: 5px;
+}
+
+.price {
+  font-weight: bolder;
+  font-size: 76px;
+  text-align: center;
+}
+
+.desc {
+  font-weight: bold;
+  font-size: 16px;
+}
